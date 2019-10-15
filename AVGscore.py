@@ -10,3 +10,6 @@ average = (round1 + round2 + round3) / 3
 
 # Print out the test score
 print "the average score is: ", average 
+
+
+#Ok so here is some random code
